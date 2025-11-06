@@ -1,0 +1,3 @@
+<?php
+// Criar novo leitor
+?>
